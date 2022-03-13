@@ -1,0 +1,11 @@
+Author: Mehul Jain
+
+Ball Brick Game
+
+This game is made on python so it is a must to have python installed on the system to run it.
+
+If python is installed simply double click on the file to play the game.
+
+Follow the instructions. 
+
+Enjoy. :D
